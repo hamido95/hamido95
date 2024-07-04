@@ -31,23 +31,23 @@
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ My Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ansible,aws,azure,cloudflare,docker,elasticsearch,githubactions,vscode,github,ubuntu,git,r" />
     <img src="https://skillicons.dev/icons?i=go,grafana,kubernetes,linux,mongodb,postgres,prometheus,py,rabbitmq,terraform,mongodb,mysql,gitlab" /><br>
 </div>
-
-
-
-
-
-
-
-
 <br/>
 <hr/>
 
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hamido95/hamido95/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
