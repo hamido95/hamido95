@@ -7,6 +7,8 @@
 <h3 align="center">A passionate DevOps Engineer </h3>
 
 
+<div align="center">
+ 
 - 🔭 I’m currently working in a software development company
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Kubernetes CRDs and CLI tools 
@@ -16,3 +18,9 @@
     - hr.rahnama95@gmail.com
 - 😄 Pronouns: ...
 - ⚡ My hobbies: reading tech articles, watch movies and cooking
+   
+</div>
+
+
+
+
