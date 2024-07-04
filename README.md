@@ -1,23 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamido95.hamido95" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Hamido!;+Welcome+to+my+GitHub+repo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Hamido!;+Welcome+to+my+GitHub+repo!;" />
 </h1>
 
+<h3 align="center">A passionate DevOps Engineer </h3>
 
-<!--
-## Hi there 👋
 
-**hamido95/hamido95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working in a software development company
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Kubernetes CRDs and CLI tools 
+- 💬 Ask me about CI/CD and Cloud Environments
+- 📫 How to reach me:
+    - https://www.linkedin.com/in/hamidreza-rahnamazadeh
+    - hr.rahnama95@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ My hobbies: reading tech articles, watch movies and cooking
