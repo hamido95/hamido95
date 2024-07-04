@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hamido95.hamido95" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamido95.hamido95" />
 
 ## Hi there 👋
 
