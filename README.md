@@ -10,13 +10,13 @@
 <div align="center">
  
 🔭 I’m currently working in a software development company
+
 🌱 I’m currently learning Golang
+
 👯 I’m looking to collaborate on Kubernetes CRDs and CLI tools 
+
 💬 Ask me about CI/CD and Cloud Environments
-📫 How to reach me:
-    https://www.linkedin.com/in/hamidreza-rahnamazadeh
-    hr.rahnama95@gmail.com
-😄 Pronouns: ...
+
 ⚡ My hobbies: reading tech articles, watch movies and cooking
    
 </div>
