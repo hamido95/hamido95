@@ -51,3 +51,7 @@
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamido95&rank_icon=github&count_private=true&show_icons=true&border_radius=10" alt="readme stats"" />
+</p>
